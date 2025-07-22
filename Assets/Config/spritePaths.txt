@@ -1,0 +1,13 @@
+./Assets/Images/block.png
+./Assets/Images/bush_block.png
+./Assets/Images/rough_block.png
+./Assets/Images/platform_block.png
+./Assets/Images/face_block.png
+./Assets/Images/left_stalactite_block.png
+./Assets/Images/right_stalactite_block.png
+./Assets/Images/solid_block.png
+./Assets/Images/vertical_pipe_block.png
+./Assets/Images/vertical_pole_block.png
+./Assets/Images/horizontal_pole_block.png
+./Assets/Images/pedestal_block.png
+./Assets/Images/bubble_door_left.png

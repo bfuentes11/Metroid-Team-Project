@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\Temp\) contains files shared from another project (Metroid.Level.1.Group.Assignment.Solution.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\SDL2\lib\x86\libfreetype-6.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\SDL2\lib\x86\libjpeg-9.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\SDL2\lib\x86\libpng16-16.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\SDL2\lib\x86\libtiff-5.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\SDL2\lib\x86\libwebp-4.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\SDL2\lib\x86\SDL2.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\SDL2\lib\x86\SDL2_image.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\SDL2\lib\x86\SDL2_ttf.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\SDL2\lib\x86\zlib1.dll
+          9 file(s) copied.
+  AnimatedObject.cpp
+D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\Source\AnimatedObject.cpp(126): warning C4172: returning address of local variable or temporary
+  Metroid.Level.2.Group.Assignment.Solution.vcxproj -> D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\Game\Metroid.Level.2.Group.Assignment.Solution.exe
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\libfreetype-6.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\libjpeg-9.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\libpng16-16.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\libtiff-5.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\libwebp-4.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\SDL2.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\SDL2_image.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\SDL2_ttf.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.2.Group.Assignment.Solution\zlib1.dll
+          9 file(s) moved.

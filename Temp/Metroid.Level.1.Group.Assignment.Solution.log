@@ -1,0 +1,36 @@
+﻿  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\SDL2\lib\x86\libfreetype-6.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\SDL2\lib\x86\libjpeg-9.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\SDL2\lib\x86\libpng16-16.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\SDL2\lib\x86\libtiff-5.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\SDL2\lib\x86\libwebp-4.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\SDL2\lib\x86\SDL2.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\SDL2\lib\x86\SDL2_image.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\SDL2\lib\x86\SDL2_ttf.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\SDL2\lib\x86\zlib1.dll
+          9 file(s) copied.
+  AnimatedObject.cpp
+  Engine.cpp
+D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\Source\Engine.cpp(34,30): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\Source\Engine.cpp(34,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\Source\Engine.cpp(34,53): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\Source\Engine.cpp(34,53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  GUI.cpp
+  Group.Assignment.1.cpp
+  Player.cpp
+D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\Source\Player.cpp(15,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Skree.cpp
+D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\Source\Skree.cpp(23,17): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\Source\Skree.cpp(38,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\Source\Skree.cpp(40,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Metroid.Level.1.Group.Assignment.Solution.vcxproj -> D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\Game\Metroid.Level.1.Group.Assignment.Solution.exe
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\libfreetype-6.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\libjpeg-9.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\libpng16-16.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\libtiff-5.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\libwebp-4.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\SDL2.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\SDL2_image.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\SDL2_ttf.dll
+  D:\Desktop\Metroid.Group.Assignments\Metroid.Level.1.Group.Assignment.Solution\zlib1.dll
+          9 file(s) moved.
